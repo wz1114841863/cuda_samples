@@ -1,0 +1,7 @@
+# 目录
+cmake-build-debug
+.idea/
+
+# 文件
+main.cu
+*.txt
